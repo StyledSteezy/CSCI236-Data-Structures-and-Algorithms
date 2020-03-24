@@ -28,7 +28,8 @@ called level order traversal. Could you find out its definition and implement it
 6. Create a function to find the max and min values of a BST, which has its key and value of the same
 integer value. Your function will return a tuple (min, max). (10 pts)
 
-Helpful things:
+Helpful:
+
 def SMA(window: List[Double]) = window.sum/window.length
 
 val days = List(1.1, 1.2, 2.3, 4.5, 1.1, 1.6, 1.9, 2.3, 2.2, 1.1)
